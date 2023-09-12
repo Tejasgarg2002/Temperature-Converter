@@ -1,4 +1,4 @@
-# Temperature-converter
+# Temperature-Converter
 <p align="center"><img width="500" alt="Screenshot 2023-09-13 at 1 10 01 AM" src="https://github.com/Tejasgarg2002/Temperature-Converter/assets/97401487/5431fd85-84ac-4692-b975-cc98c77869ad"></p>
 
 ## Table of Contents
@@ -29,10 +29,10 @@
 
 ### Installation
 1. Clone the repository (if you haven't already):<br>
-git clone https://github.com/Tejasgarg2002/temperature-converter.git
+git clone https://github.com/Tejasgarg2002/temperature-Converter.git
 
 2. Navigate to the project directory:<br>
-cd temperature-converter
+cd temp-converter
 
 3. Open the index.html file in your web browser.
 
