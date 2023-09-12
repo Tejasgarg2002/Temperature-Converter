@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); /* Replace 'your-background-image.jpg' with the actual image URL */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 1.2rem;
+  margin-right: 10px;
+  color: #333;
+}
+
+input[type="number"] {
+  width: 100px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+select {
+  padding: 5px;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#result {
+  font-size: 1.5rem;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: rgba(0, 123, 255, 0.8);
+  color: #fff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#result:hover {
+  background-color: rgba(0, 123, 255, 1);
+}
+
+.container {
+  flex-grow: 1;
+}
