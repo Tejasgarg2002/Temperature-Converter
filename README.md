@@ -32,7 +32,7 @@
 git clone https://github.com/Tejasgarg2002/temperature-Converter.git
 
 2. Navigate to the project directory:<br>
-cd temp-converter
+cd Temp converter
 
 3. Open the index.html file in your web browser.
 
